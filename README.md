@@ -1,5 +1,7 @@
 # Wiki-Info-Box
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/CraigglesO/Wiki-Info-Box.svg)](https://greenkeeper.io/)
+
 ### Search Wikipedia and get parsed HTML of just the Info-Box
 
 The Info-Box for each Wikipedia page has the majority of important information a client could require.
